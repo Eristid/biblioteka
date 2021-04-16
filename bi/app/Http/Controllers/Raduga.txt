@@ -1,0 +1,105 @@
+Nupirkčiau seną sovietinį stiprintuvą. Gali būti neveikiantis ar prastos išvaizdos. Pridedu sąrašą, bet gali būti ir kitoks. 
+Stiprintuvai po vidinės "profilaktikos" domina tik kaip likusių originalių dalių donorai (už mažesnę kainą)
+Stiprintuvai su išorės modifikacijom (pakeistom jungtim, neaišku kam išgęžtom skylėm) domina tik kaip donorai (už mažesnę kainą)
+Bendrauju visais kanalais: skambučiai, sms, komentarai, "chatas"
+
+Domina:
+Радуга	Raduga
+УКУ-20	UKU-20 (skaičius be 0 priekyje)
+Ростов-Дон-101	Rostov-Don-101
+Такт-101	Takt-101
+Юпитер-квадро	Jupiter-quadro  Jupiter-kvadro
+ВЭФ-101	VEF-101
+Прелюдия-003	Prelude-003 Preludija-003
+Лорта 75У-101	Lorta 75U-101
+Санда 35У-107	Sanda 35U-107
+Ласпи У-005	Laspi U-005
+Нота 35У-120	Note 35U-120	Nota 35U-120
+Феникс УМ-005	Phoenix UM-005 Feniks UM-005
+Феникс 50У-008	Phoenix 50U-008 Feniks 50U-008
+Форум У-001	Forum U-001
+Форум 180У-001	Forum 180U-001
+Солярис У-001	Solaris U-001
+Солярис 50У-201	Solaris 50U-201
+Трембита-101	Trembita-101
+Трембита-002	Trembita-002
+Арктур-001	Arctur-001
+Арктур-002	Arctur-002
+Aрктур-101	Arktur-101
+Электрон-20 Electron-20 Elektron-20
+Электрон-103   Electron-103   Elektron-103
+Электрон-104	Electron-104 Elektron-104
+Орбита УМ-002	Orbit UM-002
+Орбита УП-002	Orbit UP-002
+Орбита У-101	Orbit U-101
+Кумир У-001	Idol U-001	Kumir U-001
+Кумир 35У-102	Idol 35U-102    Kumir 35U-102
+Кумир 35У-103	Idol 35U-103    Kumir 35U-103
+Пульсар У-001	Pulsar U-001
+Романтика 50РУ-122	Romance 50RU-122    Romantika 50RU-122
+Романтика 50У-236	Romance 50U-236  Romantika 50U-236
+Романтика 50У-220	Romance 50U-220 Romantika 50U-220
+Романтика У-120	Romance U-120   Romantika U-120
+Романтика 15У-120	Romance 15U-120 Romantika 15U-120
+Электроника-001	Elektronica-001 Elektronika-001
+Электроника Д1-011-Квадро	Elektronic D1-011-Quadro   Elektronika D1-011-Kvadro
+Электроника Д1-014-Квадро	Elektronic D1-014-Quadro   Elektronika D1-014-Kvadro
+Электроника T1-040	Elektronic T1-040 Elektronika T1-040
+Электроника T1-002	Elektronic T1-002 Elektronika T1-002
+Электроника УК-042	Elektronika UK-042  Elektronic UK-042
+Электроника УК-043	Elektronika UK-043  Elektronic UK-042
+Электроника 50У-017	Elektronika 50U-017 Elektronic 50U-017
+Электроника У-045	Elektronika U-045   Elektronic U-045
+Электроника АI-029	Elektronika AI-029  Elektronic AI-029
+Электроника У-104	Elektronika U-104   Elektronic U-104
+Амфитон A1-01	Amfiton A1-01
+Амфитон-150УМ-108	Amfiton-150UM-108
+Корвет-004	Corvette-004 Korvet-004
+Корвет УМ-048	Corvette UM-048 Korvet UM-048
+Корвет УМ-038	Corvette UM-038 Korvet UM-038
+Корвет УП-028	Corvette UP-028	Korvet UP-028
+Корвет 50У-068	Corvette 50U-068	Korvet 50U-068
+Корвет 100УМ-048	Corvette 100UM-048	Korvet 100UM-048
+Корвет 200УМ-088	Corvette 200UM-088  Korvet 200UM-088
+Корвет УП-078	Corvette UP-078 Korvet UP-078
+Корвет 100УМ-084	Corvette 100UM-084    Korvet 100UM-084
+Корвет 100У-068	Corvette 100U-068   Korvet 100U-068
+Вега 50У-124	Vega 50U-124
+Вега 50У-122	Vega 50U-122
+
+Nelabai domina bet pirkčiau.
+Одиссей-001	Odysseus-001   Odysej-001
+Одиссей-002	Odyssey-002 Odysej-002
+Одиссей У-010	Odyssey U-010   Odysej U-010
+Одиссей 100У-021	Odyssey 100U-021	Odisej 100U-021
+Радиотехника-010	Radiotechnika-010
+Радиотехника-020	Radiotechnika-020
+Радиотехника УП-001	Radiotechnika UP-001
+Радиотехника У-101	Radiotechnika U-101
+Радиотехника У-7112	Radiotechnika U-7112
+Радиотехника УП-7010	Radiotechnika UP-7010
+Радиотехника УМ-7011	Radiotechnika UM-7011
+Радиотехника У-7111	Radiotechnika U-7111
+Радиотехника У-7101	Radiotechnika U-7101
+Любава-85	Lyubava-85
+Эстония-УП-010	Estonia-UP-010
+Эстония-УМ-010	Estonia-UM-010
+Эстония 35У-016	Estonia 35U-016
+Амфитон 25У-202	Amfiton 25U-202
+Амфитон 35У-101	Amfiton 35U-101
+Амфитон 35У-202	Amfiton 35U-202
+Амфитон У-002	Amfiton U-002
+Амфитон 25У-002	Amfiton 25U-002
+Амфитон 75У-101	Amfiton 75U-101
+Амфитон 50УМ-104	Amfiton 50UM-104
+Амфитон УП-003	Amfiton UP-003
+Амфитон У-101-1	Amfiton U-101-1
+Барк 50У-068	Bark 50U-068
+Вега 25У-122	Vega 25U-122
+Вега 10У-120	Vega 10U-120
+Вега У-120	Vega U-120
+
+Visai nedomina:
+Бриг
+
+

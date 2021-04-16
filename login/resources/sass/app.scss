@@ -1,0 +1,25 @@
+@import '~bootstrap/scss/bootstrap';
+$color: red;
+h1 {
+    color: $color;
+    font-size: xx-small;
+    span {
+        font-size: small;
+    }
+}
+
+h1 span {
+    font-size: small;
+}
+
+.class1 {
+    &__one {
+        font-size: small;
+        &__bla-bla {
+            font-size: small;
+            &.kuku {
+                font-size: small;
+            }
+        }
+    }
+}
