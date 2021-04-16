@@ -10,11 +10,6 @@ class AuthorController extends Controller
 {
     
     
-    // public function __construct()
-    // {
-    //     $this->middleware('auth');
-    // }
-    
     /**
      * Display a listing of the resource.
      *
@@ -23,7 +18,6 @@ class AuthorController extends Controller
     public function index(Request $request)
     {
         
-        // $authors = $request->sort ? Author::orderBy('surname')->get() : Author::all();
         
         if ('name' == $request->sort) {
             $authors = Author::orderBy('name')->get();
@@ -35,10 +29,6 @@ class AuthorController extends Controller
             $authors = Author::all();
         }
         
-        
-        // $authors = Author::all();
-
-        // $authors = Author::orderBy('surname')->get();
 
 
 

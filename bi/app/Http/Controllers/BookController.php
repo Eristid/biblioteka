@@ -157,8 +157,8 @@ class BookController extends Controller
 
     public function pdf(Book $book)
     {
-        $pdf = PDF::loadView('book.pdf', ['book' => $book]); // standartinis view
-        return $pdf->download('book-id'.$book->id.'.pdf'); // pdf failo pavadinimas
+        $pdf = PDF::loadView('book.pdf', ['book' => $book]); 
+        return $pdf->download('book-id'.$book->id.'.pdf'); 
     }
 
 
